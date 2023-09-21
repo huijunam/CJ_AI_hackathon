@@ -64,5 +64,4 @@ CJ 올리브네트웍스 AI 해커톤 5조 프로젝트 레포지토리 \
 </table>
 
 ## 시연 영상 📌 
-https://github.com/huijunam/CJ_AI_hackathon/assets/15117257/a53b7158-aee0-45e8-a1ce-0e6dc150ce5d
-
+https://github.com/huijunam/CJ_AI_hackathon/assets/15117257/168159bb-bec2-4f5a-9565-dc7fda665835

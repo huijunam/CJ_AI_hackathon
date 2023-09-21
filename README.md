@@ -1,9 +1,12 @@
 # CJ AI hackathon
-CJ 올리브네트웍스 AI 해커톤 5조 프로젝트 레포지토리 \
-팀명: 5G조
+CJ 올리브네트웍스 AI 해커톤 5조 프로젝트 레포지토리 
 
 ## 프로젝트 개요 📌 
 <table>
+  <tr>
+    <td align="left" width="150px;"><b>팀명</b></td>
+    <td align="left" width="500px;">5G조</td>
+  </tr>
   <tr>
     <td align="left" width="150px;"><b>프로젝트 명</b></td>
     <td align="left" width="500px;">Graphics In Feelings</td>

@@ -12,6 +12,10 @@ CJ 올리브네트웍스 AI 해커톤 5조 프로젝트 레포지토리
     <td align="left" width="500px;">Graphics In Feelings</td>
   </tr>
   <tr>
+    <td align="left" width="150px;"><b>프로젝트 기간</b></td>
+    <td align="left" width="500px;">2023.08.28 ~ 2023.09.22</td>
+  </tr>
+  <tr>
     <td align="left" width="150px;"><b>프로젝트 주제</b></td>
     <td align="left" width="500px;">텍스트 감정 분류와 키워드 추출 기반 gif 추천 서비스</td>
   </tr>
@@ -77,7 +81,15 @@ CJ 올리브네트웍스 AI 해커톤 5조 프로젝트 레포지토리
     <td align="center"><b>내용</b></td>
   </tr>
   <tr>
-    <td align="center">2023.09.06~2023.09.07</td>
+    <td align="center">2023.08.28</td>
+    <td align="center">OT</td>
+  </tr>
+  <tr>
+    <td align="center">2023.08.29~2023.09.01</td>
+    <td align="center">프로젝트 가이드라인 공부</td>
+  </tr>
+  <tr>
+    <td align="center">2023.09.04~2023.09.06</td>
     <td align="center">프로젝트 기획 및 구체화</td>
   </tr>
   <tr>
@@ -89,8 +101,12 @@ CJ 올리브네트웍스 AI 해커톤 5조 프로젝트 레포지토리
     <td align="center">모델 학습 실험 진행</td>
   </tr>
   <tr>
-    <td align="center">2023.09.20~2023.09.22</td>
+    <td align="center">2023.09.20~2023.09.21</td>
     <td align="center">최종발표 준비</td>
+  </tr>
+  <tr>
+    <td align="center">2023.09.22</td>
+    <td align="center">최종발표</td>
   </tr>
 </table>
 
